@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My First Tabbed App</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="chat_list">
+        <item>King</item>
+        <item>Fracia</item>
+        <item>Immanuel</item>
+        <item>Matilda</item>
+        <item>Esther</item>
+        <item>Jedida</item>
+        <item>Nicole</item>
+        <item>Penalope</item>
+        <item>Abdul</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Israel</item>
+        <item>Celine</item>
+        <item>Anthony</item>
+        <item>Joseph</item>
+    </string-array>
+</resources>
